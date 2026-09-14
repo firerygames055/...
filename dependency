@@ -1,0 +1,12 @@
+---====== Load achievement giver ======---
+local achievementGiver = loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Doors/Custom%20Achievements/Source.lua"))()
+
+---====== Display achievement ======---
+achievementGiver({
+    Title = "Fragmented mode V5 ",
+    Desc = "you'll regret this. or will you?",
+    Reason = "Execute Fragmented mode V5.",
+    Image = "rbxassetid://80921932542636"
+})
+
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/lynguyen26031993-design/-u/refs/heads/main/crazy-mode"))()
