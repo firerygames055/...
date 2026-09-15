@@ -9,4 +9,5 @@ achievementGiver({
     Image = "rbxassetid://80921932542636"
 })
 
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/lynguyen26031993-design/-u/refs/heads/main/crazy-mode"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lynguyen26031993-design/-u/refs/heads/main/crazy-mode"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/firerygames055/doors-fragmented-mode-updated-sprint/refs/heads/main/fragmented%20mode%20updated%20sprint"))()
